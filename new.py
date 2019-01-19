@@ -16,3 +16,6 @@ z="ala"
 x="%s ma kota"%z
 
 print(x)
+
+for x in "nic":
+    print (x)
